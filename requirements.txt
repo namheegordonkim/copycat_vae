@@ -1,0 +1,8 @@
+imgui-bundle==1.5.2
+joblib==1.4.2
+mujoco==3.2.3
+pyvista==0.44.1
+pyvista-imgui==0.5.0
+torch==2.4.1
+scipy
+tqdm
